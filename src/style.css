@@ -1,0 +1,62 @@
+:root {
+  color-scheme: dark;
+  font-family:
+    "Bahnschrift",
+    "DIN Condensed",
+    "Aptos Display",
+    "Segoe UI",
+    sans-serif;
+  background: #05080c;
+  color: #dbeef2;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  touch-action: none;
+  user-select: none;
+}
+
+.game-shell {
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(circle at 50% 42%, rgba(25, 192, 203, 0.16), transparent 28rem),
+    linear-gradient(135deg, #05080c 0%, #0a1117 52%, #100c09 100%);
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.asset-warning {
+  position: fixed;
+  left: 14px;
+  bottom: calc(14px + env(safe-area-inset-bottom));
+  max-width: min(520px, calc(100vw - 28px));
+  padding: 10px 12px;
+  border: 1px solid rgba(255, 138, 42, 0.55);
+  background: rgba(17, 12, 9, 0.72);
+  color: #ffd6a5;
+  font-size: 12px;
+  line-height: 1.35;
+  letter-spacing: 0.02em;
+  backdrop-filter: blur(10px);
+}
