@@ -27,6 +27,16 @@ $ cat about.txt
 ---
 
 ```terminal
+$ cat preview.png
+```
+
+<p align="center">
+  <img src="public/screenshot.png" alt="Rift Salvage Preview" width="600" />
+</p>
+
+---
+
+```terminal
 $ cat /etc/tech-stack.conf
 ```
 
