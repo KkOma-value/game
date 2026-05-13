@@ -10,10 +10,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
 ```terminal
 $ cat about.txt
 ```
@@ -27,19 +23,6 @@ $ cat about.txt
 - Game development & interactive experiences
 - Web graphics & animation
 - Clean code & design patterns
-
-    </td>
-    <td valign="top" width="45%">
-
-```terminal
-$ neofetch --stats
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KkOma-value&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=58A6FF&ring_color=3FB950)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -64,12 +47,9 @@ $ cat /etc/tech-stack.conf
 $ cat /proc/contributions
 ```
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KkOma-value&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=KkOma-value&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KkOma-value&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" />
+</p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KkOma-value&theme=github-dark&hide_border=true&area=true&area_color=3FB950&color=C9D1D9&line=3FB950&point=3FB950)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
